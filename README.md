@@ -18,7 +18,5 @@
    <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
    <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
 </div>
-<br/>
-Apaixonado por tecnologia
 
-![Snake Animation](https://github.com/Artur2510/Artur2510/blob/output/github-contribution-grid-snake.svg)
+## Apaixonado por tecnologia
