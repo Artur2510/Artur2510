@@ -21,4 +21,4 @@
 <br/>
 Apaixonado por tecnologia
 
-![Snake Animation](https://github.com/artur2510/artur2510/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/Artur2510/Artur2510/blob/output/github-contribution-grid-snake.svg)
